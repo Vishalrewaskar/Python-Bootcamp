@@ -9,7 +9,7 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 
 ## 📈 Progress
 
-### ✅ Day 1 Recap:
+### ✅ Day 1 Recap: 12 june 2025
 
 **🔧 Machine Setup:**
 - Installed Anaconda
