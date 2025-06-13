@@ -23,5 +23,11 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - Control Flow (if-elif-else, loops)
 
 ---
+### ✅ Day 2 Recap: 13 juune
+
+**📌 Focus Area:**  
+- No new concepts were covered today.  
+- Focused on the **Python Basics Assignment** provided by Krish Sir (20 questions).  
+- Questions **4 to 7** felt a bit challenging — currently working on solving them.
 
 More updates coming soon... 🔄  
