@@ -26,10 +26,9 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 ### ✅ Day 2 Recap: 13 juune
 
 **📌 Focus Area:**  
-- No new concepts were covered today. 
 - Still going through the **Python Basics Assignment** by Krish Sir  
 - Currently working on **questions 4 to 7**, which are a bit tricky  
-- Uploaded the **Conditional Flow Notebook** after watching the tutorials
+- Uploaded the **Conditional Flow Notebook** (conditional statements, loops) after watching the tutorials
 
   
 More updates coming soon... 🔄  
