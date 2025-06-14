@@ -23,12 +23,27 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - Control Flow (if-elif-else, loops)
 
 ---
-### ✅ Day 2 Recap: 13 juune
+### ✅ Day 2 Recap: 13 june
 
 **📌 Focus Area:**  
 - Still going through the **Python Basics Assignment** by Krish Sir  
 - Currently working on **questions 4 to 7**, which are a bit tricky  
 - Uploaded the **Conditional Flow Notebook** (conditional statements, loops) after watching the tutorials
 
-  
+---
+
+### ✅ Day 3 Recap:
+
+**🎥 Tutorial Covered:**  
+- Watched tutorial on **Lists**  
+- Uploaded list tutorial practice file to GitHub
+
+**📘 Assignments Update:**  
+- Uploaded and **completed all 20 questions** from the **Python Basics Assignment**
+- Currently solving **Control Flow Assignment**, found **questions 4 to 6** challenging
+- Next up:  
+  - Solve **List Assignment Questions**  
+  - Continue working on remaining **Control Flow Questions**
+ 
+    
 More updates coming soon... 🔄  
