@@ -32,7 +32,7 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 
 ---
 
-### ✅ Day 3 Recap:
+### ✅ Day 3 Recap: 14 june
 
 **🎥 Tutorial Covered:**  
 - Watched tutorial on **Lists**  
@@ -41,9 +41,15 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 **📘 Assignments Update:**  
 - Uploaded and **completed all 20 questions** from the **Python Basics Assignment**
 - Currently solving **Control Flow Assignment**, found **questions 4 to 6** challenging
-- Next up:  
-  - Solve **List Assignment Questions**  
-  - Continue working on remaining **Control Flow Questions**
+---
+### ✅ Day 4 Recap: 15 june
+**📚 Topics Covered:**
+- Tuples  
+- Sets  
+- Dictionaries  
+
+**📘 Assignments Update:**  
+- Uploaded **Control Flow Assignment Notebook** (15 questions) to GitHub
  
     
 More updates coming soon... 🔄  
