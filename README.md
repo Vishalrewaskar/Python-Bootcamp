@@ -49,7 +49,7 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - Dictionaries  
 
 **📘 Assignments Update:**  
-- Uploaded **Control Flow Assignment Notebook** (15 questions) to GitHub
+- Uploaded **Control Flow Assignment Notebook** (15 questions) 
  
     
 More updates coming soon... 🔄  
