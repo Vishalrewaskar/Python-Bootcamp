@@ -54,7 +54,7 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 ---
 ### ✅ Day 5 Recap: 16 june
 
-**💻 Lecture Code Practice (LCP) & Assignments (A):**
+**💻 Lecture Code Practice & Assignments :**
 - ✅ **List:** Assignment completed  
 - ✅ **Tuples:** Lecture code + assignment done  
 - ✅ **Sets:** Lecture code + assignment done  
