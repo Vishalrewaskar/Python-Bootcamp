@@ -36,7 +36,7 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 
 **🎥 Tutorial Covered:**  
 - Watched tutorial on **Lists**  
-- Uploaded list tutorial practice file to GitHub
+- Uploaded list tutorial practice notebook
 
 **📘 Assignments Update:**  
 - Uploaded and **completed all 20 questions** from the **Python Basics Assignment**
@@ -49,7 +49,18 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - Dictionaries  
 
 **📘 Assignments Update:**  
-- Uploaded **Control Flow Assignment Notebook** (15 questions) 
+- Uploaded **Control Flow Assignment Notebook** (15 questions)
+
+---
+### ✅ Day 5 Recap: 16 june
+
+**💻 Lecture Code Practice (LCP) & Assignments (A):**
+- ✅ **List:** Assignment completed  
+- ✅ **Tuples:** Lecture code + assignment done  
+- ✅ **Sets:** Lecture code + assignment done  
+- ✅ **Dictionaries:** Lecture code done
+
+---
  
     
 More updates coming soon... 🔄  
