@@ -61,6 +61,15 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - ✅ **Dictionaries:** Lecture code done
 
 ---
+### ✅ Day 6 Recap:
+
+**📚 Topics Covered:**  
+- Functions  
+- Lambda Functions  
+- `map()`  
+- `filter()`
+
+- Practiced lecture codes
  
     
 More updates coming soon... 🔄  
