@@ -70,6 +70,20 @@ I'll be updating this repo **daily** as I move through each module of the bootca
 - `filter()`
 
 - Practiced lecture codes
- 
+---
+### ✅ Day 7 Recap: 18 june
+
+**📚 Topics Covered:**  
+- Importing Modules and Packages  
+- Standard Library Overview  
+
+**🛠️ Practice:**  
+- Solved real-world problems like:
+  - Organizing student grades  
+  - Managing an inventory system  
+  - Collecting user feedback  
+
+**💻 Coding Exercises Solved:**  
+- Completed function-based and inbuilt data structure questions from the course   
     
 More updates coming soon... 🔄  
