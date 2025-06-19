@@ -1,0 +1,3 @@
+Hello, programmers. here is our source file
+this file is going to copied in destination . txt file (destination . txt automatically created )
+for that here is the sample text
