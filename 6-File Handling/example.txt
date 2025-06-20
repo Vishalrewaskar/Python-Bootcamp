@@ -1,0 +1,3 @@
+this is another data in example file.
+we are going to copy it and paste it on 
+destination file i.e. dstn.file

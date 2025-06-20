@@ -1,0 +1,3 @@
+In java, finding and replacing text can be accomplished using various methods, 
+new text on whether the operation is for a simple string, 
+a file, or requires regular expressions.
