@@ -84,6 +84,30 @@ I'll be updating this repo **daily** as I move through each module of the bootca
   - Collecting user feedback  
 
 **💻 Coding Exercises Solved:**  
-- Completed function-based and inbuilt data structure questions from the course   
-    
+- Completed function-based and inbuilt data structure questions from the course
+
+---
+### ✅ Day 8 Recap: 19 june
+
+**📚 Topics Covered:**  
+- File Handling  
+  - File Operations  
+  - Working with File Paths  
+
+**🛠️ Practice:**  
+- Completed the **Modules & Packages Assignment** 📦💻  
+- Practiced file handling operations with examples and notebook exercises
+
+---
+### ✅ Day 9 Recap: 20 june
+
+**📚 Topics Covered:**  
+- Exception Handling  
+- Classes & Objects  
+
+**🛠️ Practice:**  
+- Completed **File Handling Assignment** 📂✅  
+- Practiced code examples related to exceptions and object-oriented concepts
+
+---    
 More updates coming soon... 🔄  
